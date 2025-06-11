@@ -31,14 +31,14 @@
           <summary>See more</summary>
           <p align="center">
             <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=python,js,ruby,java,cpp,cs,c,go,assembly" />
+              <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,swift,cpp,cs,c,go,mysql" />
             </a>
           </p>
           <!-- ส่วนของภาษาต่างๆ -->
-          <h4>Core Languages:</h4>
+          <h4>Core Languages (Main Job Roles):</h4>
           <ul>
             <li>
-              <strong>Python:</strong> Exceptionally versatile, dominant in Data Science, AI/ML, widely used for Web Development (Backend), automation, and Scripting.
+              <strong>Python:</strong> Exceptionally versatile, dominant in Data Science, AI/ML, and widely used for Web Development (Backend), Automation, and Scripting.
             </li>
             <li>
               <strong>JavaScript:</strong> The undisputed primary language for Web Development (Frontend, and Backend with Node.js). Also heavily used for Mobile (React Native) and Desktop (Electron) applications.
@@ -47,10 +47,16 @@
               <strong>Java:</strong> A robust, platform-independent language, foundational for large-scale Enterprise Systems, Android Development, and Big Data processing.
             </li>
             <li>
+              <strong>Kotlin:</strong> Google's officially recommended language for current Android Development. It's more concise and safer than Java, also usable for Backend and supports Multiplatform development.
+            </li>
+            <li>
+              <strong>Swift:</strong> The primary language for developing applications within the Apple Ecosystem (iOS, macOS, watchOS).
+            </li>
+            <li>
               <strong>C++:</strong> Offers high performance and control, making it crucial for Game Development, Embedded Systems, High-Performance Computing, and System Programming.
             </li>
             <li>
-              <strong>C#:</strong> Central to the .NET Ecosystem, extensively used for Windows Applications, Game Development (especially with Unity), and enterprise web development (ASP.NET).
+              <strong>C#:</strong> Central to the .NET Ecosystem, extensively used for Windows Applications, Game Development (Unity), and Enterprise Web Development (ASP.NET).
             </li>
             <li>
               <strong>C:</strong> A foundational, low-level language providing unparalleled performance and direct memory control. Essential for developing Operating Systems, Embedded Systems, and other System-Level Programming.
@@ -59,73 +65,95 @@
               <strong>Go (Golang):</strong> Known for its efficiency and strong support for concurrency, it's increasingly popular for building scalable Backend services, Microservices, and Cloud Infrastructure.
             </li>
             <li>
-              <strong>Assembly:</strong> A very low-level language that directly maps to a computer's machine instructions. It is fundamental for System Programming, writing Device Drivers, programming Embedded Systems, and achieving extreme performance optimizations where direct hardware control is essential.
+              <strong>SQL (Structured Query Language):</strong> A specialized language for managing and accessing data in relational databases. Used for retrieving, inserting, modifying, and deleting data; essential for developers working with data.
+            </li>
+            <li>
+              <strong>Assembly:</strong> The lowest-level language that directly maps to a computer's machine instructions. It is fundamental for System Programming, writing Device Drivers, Embedded Systems, and achieving advanced performance optimizations that require direct hardware control.
             </li>
           </ul>
           <!-- ส่วนของแนวคิดหลัก -->
-          <h4>Fundamental Programming Concepts</h4>
+          <h4>Fundamental Programming Concepts:</h4>
           <ul>
             <li>
-              <strong>Variable:</strong> A designated area in computer memory used to store data. It has a unique name that allows us to reference, use, or modify the stored information (e.g., age = 30, name = "Alice").
+              <strong>Variable:</strong> A designated area in computer memory for storing data. It has a unique name to reference and modify the stored information (e.g., age = 30, name = "Alice").
             </li>
             <li>
-              <strong>Data Type:</strong> Specifies the kind of data a variable will hold, informing the computer how to manage that data (e.g., Integer for whole numbers, String for text, Boolean for true/false values).
+              <strong>Data Type:</strong> Specifies the kind of data a variable will hold, informing the computer how to manage that data appropriately (e.g., Integer for whole numbers, String for text, Boolean for true/false values).
             </li>
             <li>
-              <strong>Operator:</strong> Symbols used to perform operations on data or variables (e.g., + for addition, = for assignment, == for comparison of equality).
+              <strong>Operator:</strong> Symbols used to perform operations on data or variables (e.g., + for addition, = for assignment, == for comparison).
             </li>
             <li>
               <strong>Function:</strong> A block of code designed to perform a specific task. It can be reused multiple times, often takes input values (Arguments), and may return a result (Return Value) (e.g., calculate_sum(a, b)).
             </li>
             <li>
-              <strong>Conditional Statement:</strong> Controls the program's flow based on a condition. If the condition is True, one set of instructions is executed; if False, another set is executed, or none at all (e.g., if-else, switch-case).
+              <strong>Conditional Statement:</strong> Controls the program's flow based on a condition, such as if-else or switch-case.
             </li>
             <li>
-              <strong>Loop:</strong> An instruction that causes a block of code to repeat multiple times until a specified condition is met or a certain number of repetitions is completed (e.g., for loop for a definite number of iterations, while loop for repeating until a condition becomes false).
+              <strong>Loop:</strong> An instruction that causes a block of code to repeat multiple times until a condition is met or a specified number of iterations is completed (e.g., for loop, while loop).
             </li>
             <li>
-              <strong>Array:</strong> A data structure used to store a collection of data items of the same type, arranged in a sequential order. Each item can be accessed using an index (e.g., numbers = [10, 20, 30]).
+              <strong>Comment:</strong> Text within the code written by programmers to explain its functionality. Comments are ignored by the compiler or interpreter and do not affect program execution.
             </li>
             <li>
-              <strong>Comment:</strong> Text within the code written by programmers to explain how the code works. Comments are ignored by the compiler or interpreter (they help make the code more understandable for humans).
+              <strong>Input/Output (I/O):</strong> The process of receiving data into the program (Input) and displaying or sending data out of the program (Output).
             </li>
             <li>
-              <strong>Input/Output (I/O):</strong> Handles the process of receiving data into the program (Input) from sources like a keyboard, files, or networks, and displaying data out of the program (Output) to places like the screen or saved files.
+              <strong>Error Handling:</strong> The process of catching and managing errors or exceptions that might occur during program execution, preventing unexpected crashes (e.g., try-catch, try-except).
             </li>
             <li>
-              <strong>Error Handling:</strong> The process of catching and managing errors or exceptions that might occur while a program is running. This prevents the program from crashing unexpectedly (e.g., try-catch, try-except).
+              <strong>Library / Module / Package:</strong> A collection of pre-written code, functions, or classes that programmers can reuse, saving time and effort.
             </li>
             <li>
-              <strong>Library / Module / Package:</strong> A collection of pre-written code, functions, or classes that programmers can reuse without having to write everything from scratch (e.g., math module in Python, java.util package in Java).
+              <strong>Scope:</strong> Defines the region of a program where a variable can be accessed or used (e.g., Local Scope, Global Scope).
             </li>
             <li>
-              <strong>Scope:</strong> Defines the region of a program where a variable can be accessed or used. Variables declared inside a function have a limited scope within that function (Local Scope), while variables declared outside functions can be accessed from any part of the program (Global Scope).
+              <strong>Recursion:</strong> A programming technique where a function calls itself repeatedly to solve a problem, breaking down a large problem into smaller, similar sub-problems.
+            </li>
+          </ul>
+          <!-- ส่วนของประเภทข้อมูล -->
+          <h4>Data Structures:</h4>
+          <ul>
+            <li>
+              <strong>Array:</strong> A data structure that stores a collection of data items of the same type in a contiguous sequence. Each item can be accessed using an index (e.g., numbers = [10, 20, 30]).
             </li>
             <li>
-              <strong>Recursion:</strong> A programming technique where a function calls itself repeatedly to solve a problem. It breaks down a large problem into smaller, similar sub-problems until a basic condition is reached that can be solved directly.
+              <strong>List:</strong> A resizable collection that can store data of any type (in some languages).
+            </li>
+            <li>
+              <strong>Dictionary / Map:</strong> A data structure that stores data as Key-Value Pairs, allowing for fast retrieval of data via its key (e.g., student = {"name": "Alice", "age": 20}).
+            </li>
+            <li>
+              <strong>Set:</strong> A data structure that stores a collection of unique, unordered data items. Ideal for quickly checking for membership.
+            </li>
+            <li>
+              <strong>Tuple:</strong> A data structure that stores an ordered collection of data items that are immutable (cannot be changed) once created.
             </li>
           </ul>
           <!-- รูปแบบของการดำเนินการแปลงโค้ด -->
           <h4>Code Execution Paradigms:</h4>
           <ul>
             <li>
-              <strong>Compilation:</strong> The process of transforming human-written Source Code into Machine Code that a computer can understand and run directly. This process occurs before the program is run (e.g., C++, Java).
+              <strong>Compilation:</strong> The process of transforming human-written Source Code into Machine Code that a computer can understand and run directly. This occurs before the program is run (e.g., C++, Java).
             </li>
             <li>
-              <strong>Interpretation:</strong> The process where a program directly executes instructions from the source code line by line without creating a separate machine code file. Interpretation happens while the program is running (e.g., Python, JavaScript).
+              <strong>Interpretation:</strong> The process where a program directly executes instructions from the Source Code line by line while the program is running, without creating a separate machine code file (e.g., Python, JavaScript).
             </li>
           </ul>
           <!-- ส่วนของรูปแบบการเขียน -->
-          <h4>Paradigms:</h4>
+          <h4>Programming Paradigms:</h4>
           <ul>
             <li>
-              <strong>Object-Oriented Programming (OOP):</strong> A programming paradigm based on the concept of "objects," which can contain data and code. It emphasizes program design using objects and classes (e.g., Java, C++, C#, Python).
+              <strong>Object-Oriented Programming (OOP):</strong> A programming paradigm based on the concept of "objects," which can contain both data and code. It emphasizes program design using objects and classes (e.g., Java, C++, C#, Python).
             </li>
             <li>
-              <strong>Functional Programming (FP):</strong> A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data. It focuses on writing code using pure functions and avoiding side effects (e.g., JavaScript, Python, Scala).
+              <strong>Functional Programming (FP):</strong> A programming paradigm that treats computation as the evaluation of mathematical functions, avoiding mutable state and side effects. It focuses on using pure functions (e.g., JavaScript, Python, Scala).
             </li>
             <li>
               <strong>Procedural Programming:</strong> A programming paradigm derived from structured programming, based on the concept of the procedure call. It involves writing code that follows a step-by-step, sequential order (e.g., C).
+            </li>
+            <li>
+              <strong>Event-Driven Programming:</strong> A paradigm where the program's execution flow is determined by events (e.g., mouse clicks, key presses, messages from other programs). It's fundamental for developing Graphical User Interface (GUI) applications and web applications.
             </li>
           </ul>
         </details>
@@ -136,8 +164,5 @@
 <!-- ส่วนท้าย -->
 <footer>
   <h2>🌐 Social Media and Other Channels</h2>
-
-[![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-square&logo=youtube&logoColor=white)](https://www.youtube.com/@blanktphan)
-  
-  
+  <a href="https://www.youtube.com/@blanktphan"><img alt="Static Badge" src="https://img.shields.io/badge/blankt-Youtube-red?style=for-the-badge&logo=Youtube&color=ff0000"></a>
 </footer>
