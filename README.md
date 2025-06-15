@@ -38,37 +38,37 @@
           <h4>Core Languages (Main Job Roles):</h4>
           <ul>
             <li>
-              <strong>Python:</strong> Exceptionally versatile, dominant in Data Science, AI/ML, and widely used for Web Development (Backend), Automation, and Scripting.
+              <strong>Python (Familiar):</strong> Exceptionally versatile, dominant in Data Science, AI/ML, and widely used for Web Development (Backend), Automation, and Scripting.
             </li>
             <li>
-              <strong>JavaScript:</strong> The undisputed primary language for Web Development (Frontend, and Backend with Node.js). Also heavily used for Mobile (React Native) and Desktop (Electron) applications.
+              <strong>JavaScript (Familiar):</strong> The undisputed primary language for Web Development (Frontend, and Backend with Node.js). Also heavily used for Mobile (React Native) and Desktop (Electron) applications.
             </li>
             <li>
-              <strong>Java:</strong> A robust, platform-independent language, foundational for large-scale Enterprise Systems, Android Development, and Big Data processing.
+              <strong>Java (Familiar):</strong> A robust, platform-independent language, foundational for large-scale Enterprise Systems, Android Development, and Big Data processing.
             </li>
             <li>
-              <strong>Kotlin:</strong> Google's officially recommended language for current Android Development. It's more concise and safer than Java, also usable for Backend and supports Multiplatform development.
+              <strong>Kotlin (Understand):</strong> Google's officially recommended language for current Android Development. It's more concise and safer than Java, also usable for Backend and supports Multiplatform development.
             </li>
             <li>
-              <strong>Swift:</strong> The primary language for developing applications within the Apple Ecosystem (iOS, macOS, watchOS).
+              <strong>Swift (Understand):</strong> The primary language for developing applications within the Apple Ecosystem (iOS, macOS, watchOS).
             </li>
             <li>
-              <strong>C++:</strong> Offers high performance and control, making it crucial for Game Development, Embedded Systems, High-Performance Computing, and System Programming.
+              <strong>C++ (Understand):</strong> Offers high performance and control, making it crucial for Game Development, Embedded Systems, High-Performance Computing, and System Programming.
             </li>
             <li>
-              <strong>C#:</strong> Central to the .NET Ecosystem, extensively used for Windows Applications, Game Development (Unity), and Enterprise Web Development (ASP.NET).
+              <strong>C# (Understand):</strong> Central to the .NET Ecosystem, extensively used for Windows Applications, Game Development (Unity), and Enterprise Web Development (ASP.NET).
             </li>
             <li>
-              <strong>C:</strong> A foundational, low-level language providing unparalleled performance and direct memory control. Essential for developing Operating Systems, Embedded Systems, and other System-Level Programming.
+              <strong>C (Familiar):</strong> A foundational, low-level language providing unparalleled performance and direct memory control. Essential for developing Operating Systems, Embedded Systems, and other System-Level Programming.
             </li>
             <li>
-              <strong>Go (Golang):</strong> Known for its efficiency and strong support for concurrency, it's increasingly popular for building scalable Backend services, Microservices, and Cloud Infrastructure.
+              <strong>Go (Understand):</strong> Known for its efficiency and strong support for concurrency, it's increasingly popular for building scalable Backend services, Microservices, and Cloud Infrastructure.
             </li>
             <li>
-              <strong>SQL (Structured Query Language):</strong> A specialized language for managing and accessing data in relational databases. Used for retrieving, inserting, modifying, and deleting data; essential for developers working with data.
+              <strong>SQL (Familiar):</strong> A specialized language for managing and accessing data in relational databases. Used for retrieving, inserting, modifying, and deleting data; essential for developers working with data.
             </li>
             <li>
-              <strong>Assembly:</strong> The lowest-level language that directly maps to a computer's machine instructions. It is fundamental for System Programming, writing Device Drivers, Embedded Systems, and achieving advanced performance optimizations that require direct hardware control.
+              <strong>Assembly (Familiar):</strong> The lowest-level language that directly maps to a computer's machine instructions. It is fundamental for System Programming, writing Device Drivers, Embedded Systems, and achieving advanced performance optimizations that require direct hardware control.
             </li>
           </ul>
           <!-- ส่วนของแนวคิดหลัก -->
