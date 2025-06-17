@@ -1,23 +1,23 @@
-<!--ส่วนหัวสำหรับแนะนำตัว -->
+<!-- Header section for introduction -->
 <header>
     <h1 align="center">👋 Hi there, I'm Thitiphan Saragool</h1>
     <p align="center">
       My nickname is Blank, and I'm a programmer passionate about developing various technologies. I love sharing knowledge and constantly improving myself. I seriously began <b>self-studying</b> on June 1, 2025.
     </p>
-    <!-- รายการที่ใช้สำหรับแนะนำตัวเอง -->
+    <!-- List used for self-introduction -->
     <ul>
-      <li>🌱 <b>I’m currently learning</b> computer science on Codecademy
+      <li>🌱 <b>I'm currently learning</b> computer science on Codecademy
       <li>🚀 <b>I'm currently working on</b> projects related to E-commerce websites, CRUD applications, and an educational platform</li>
       <li>🤝 <b>I'm open to collaboration on</b> anything within my experience and skill set to further develop my skills</li>
     </ul>
 </header>
-<!--ส่วนเนื้อหลัก -->
+<!-- Main content section -->
 
 <main>
-    <!-- ส่วนของสถิติ -->
+    <!-- Statistics section -->
     <article>
         <h2>⚡ Git Status</h2>
-        <!-- ส่วนของการ์ดสถิติ GitHub และ Language -->
+        <!-- GitHub stats and language cards section -->
         <section align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=blanktphan&show_icons=true&bg_color=00000000&text_color=fff" />
@@ -27,7 +27,7 @@
             </a>
         </section>
     </article>
-    <!-- ส่วนของทักษะและประสบการณ์ต่างๆ -->
+    <!-- Skills and experience section -->
     <article>
       <h2>🧠 My Technical Skills & Expertise</h2>
       <p>
@@ -37,16 +37,16 @@
         If you're interested in the learning resources I used, feel free to check out my repository. You can also click on the Details below for more information.
       </p>
       <details>
-        <!-- ส่วนของพื้นฐาน -->
+        <!-- Fundamentals section -->
         <section>
-          <h3>📚 My Fudamentals</h3>
+          <h3>📚 My Fundamentals</h3>
           <details>
             <summary>See more</summary>
-            <h4>Computer Architecture - Still learning<h4>
+            <h4>Computer Architecture - Still learning</h4>
             <h4>Electronic - Still learning</h4>
           </details>
         </section>
-        <!--ส่วนของภาษาโปรแกรม -->
+        <!-- Programming languages section -->
         <section>
           <h3>👨‍💻 Programming Language</h3>
           <details>
@@ -55,7 +55,7 @@
                 <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,swift,cpp,cs,c,go,mysql" />
               </a>
             </p>
-            <!-- ส่วนของภาษาต่างๆ -->
+            <!-- Languages section -->
             <h4>Core Languages:</h4>
             <ul>
               <li>
@@ -92,7 +92,7 @@
                 <strong>Assembly (Familiar):</strong> The lowest-level language that directly maps to a computer's machine instructions. It is fundamental for System Programming, writing Device Drivers, Embedded Systems, and achieving advanced performance optimizations that require direct hardware control.
               </li>
             </ul>
-            <!-- ส่วนของแนวคิดหลัก -->
+            <!-- Core concepts section -->
             <h4>Fundamental Programming Concepts:</h4>
             <ul>
               <li>
@@ -132,7 +132,7 @@
                 <strong>Recursion:</strong> A programming technique where a function calls itself repeatedly to solve a problem, breaking down a large problem into smaller, similar sub-problems.
               </li>
             </ul>
-            <!-- ส่วนของประเภทข้อมูล -->
+            <!-- Data types section -->
             <h4>Data Structures:</h4>
             <ul>
               <li>
@@ -151,7 +151,7 @@
                 <strong>Tuple:</strong> A data structure that stores an ordered collection of data items that are immutable (cannot be changed) once created.
               </li>
             </ul>
-            <!-- รูปแบบของการดำเนินการแปลงโค้ด -->
+            <!-- Code execution paradigms section -->
             <h4>Code Execution Paradigms:</h4>
             <ul>
               <li>
@@ -161,7 +161,7 @@
                 <strong>Interpretation:</strong> The process where a program directly executes instructions from the Source Code line by line while the program is running, without creating a separate machine code file (e.g., Python, JavaScript).
               </li>
             </ul>
-            <!-- ส่วนของรูปแบบการเขียน -->
+            <!-- Programming paradigms section -->
             <h4>Programming Paradigms:</h4>
             <ul>
               <li>
@@ -183,8 +183,13 @@
   </article>
 </main>
 
-<!-- ส่วนท้าย -->
+<!-- Footer section -->
 <footer>
   <h2>🌐 Social Media and Other Channels</h2>
-  <a href="https://www.youtube.com/@blanktphan"><img alt="Static Badge" src="https://img.shields.io/badge/blankt-Youtube-red?style=for-the-badge&logo=Youtube&color=ff0000"></a>
+  <a href="https://www.youtube.com/@blanktphan">
+    <img alt="Static Badge" src="https://img.shields.io/badge/blankt-Youtube-red?style=for-the-badge&logo=Youtube&color=ff0000" />
+  </a>
+  <a href="#">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Instragram-red?style=for-the-badge&logo=instagram&logoColor=FFF&label=blanktphan&color=c13584" />
+  </a>
 </footer>
