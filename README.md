@@ -8,7 +8,7 @@
 
   <nav>
     <ul>
-      <li>🌱 <strong>I'm currently learning</strong> <em>computer science</em> on <a href="https://www.codecademy.com" target="_blank" rel="noopener noreferrer"><strong>Codecademy</strong></a></li>
+      <li>🌱 <strong>I'm currently learning</strong> <em>computer science</em> on <a href="https://www.codecademy.com" target="_blank" rel="noopener noreferrer"><strong>Codecademy</strong></a> and <em>Frontend Developer</em> on <a href="https://roadmap.sh/"><strong>Roadmap.sh</strong></a></li>
       <li>🔨 <strong>I'm currently working on</strong> projects related to <em>E-commerce websites</em>, <em>CRUD applications</em>, and an <em>educational platform</em>.</li>
       <li>🎯 <strong>My goal</strong> this year is to gain the <strong>best possible understanding</strong> of various <strong>software and hardware fields</strong>, so I can then find a <strong>specialization</strong> I truly enjoy.</li>
       <li>💖 <strong>I'm interested</strong> in <em>Mechatronics</em> because I think it is <strong>important for the future</strong>.</li>
