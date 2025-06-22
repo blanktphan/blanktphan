@@ -39,12 +39,20 @@
   <section>
     <h2>🧠 <strong>My Technical Skills & Expertise</strong></h2>
     <section align="center">
-      <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=learning-journey&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
-      </a>
+      <p>
+        <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=learning-journey&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
+        </a>
+      </p>
+    </section>
+    <section align="center">
+      <p> 
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,java,c,html,css,bootstrap,js,react" />
+        </a>
+      </p>
     </section>
     <aside>
-      <br />
       <p>
         📍 Since most of the <strong>techniques and skills</strong> I've shared and demonstrated here were acquired through <strong>self-study</strong>, there might be some <em>errors or omissions</em>. If you're interested in the <strong>learning resources</strong> I used, feel free to check out my <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer"><strong>learning-journey repository</strong></a>. You can also <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer"><strong>explore the resources section</strong></a> for <em>more detailed information</em>.
       </p>
