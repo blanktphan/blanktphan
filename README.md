@@ -2,7 +2,7 @@
   <section>
     <h1 align="center">👋 Hi there, I'm <strong>Thitiphan Saragool</strong></h1>
     <p align="center">
-      My nickname is <em>Blank</em>, and I'm a <strong>passionate programmer</strong> developing various technologies. I love <strong>sharing knowledge</strong> and <em>constantly improving myself</em>. I seriously began my <strong>self-studying journey</strong> on <em>June 1, 2025</em>.
+      My nickname is <em>Blank</em>, and I'm a <strong>passionate programmer</strong> building various things. I love <strong>sharing knowledge</strong> and <em>constantly improving myself</em>. I seriously began my <strong>self-studying journey</strong> on <em>June 1, 2025</em>.
     </p>
   </section>
 
