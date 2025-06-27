@@ -48,7 +48,7 @@
     <section align="center">
       <p> 
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,bootstrap,js,react,redux,nodejs,php,mysql,vscode,git,powershell,bash,github,notion,md,figma,windows,ubuntu" />
+          <img src="https://skillicons.dev/icons?i=python,java,rust,c,cpp,cs,swift,kotlin,dart,html,css,bootstrap,js,react,redux,nodejs,php,mysql,vscode,git,powershell,bash,github,notion,md,figma,windows,ubuntu" />
         </a>
       </p>
     </section>
