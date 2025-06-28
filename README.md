@@ -17,6 +17,9 @@
   </nav>
 
   <section align="center">
+    <a href="https://github.com/blanktphan/blanktphan/tree/main/certificate" aria-label="blanktphan's certificate">
+      <img alt="Static Badge" src="https://img.shields.io/badge/6-blue?style=for-the-badge&label=Certificate">
+    </a>
     <a href="#" aria-label="Profile visitor counter">
       <img src="https://komarev.com/ghpvc/?username=blanktphan&style=for-the-badge&abbreviated=true" alt="Profile views counter" />
     </a>
