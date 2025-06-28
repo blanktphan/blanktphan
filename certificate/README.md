@@ -2,8 +2,6 @@
 
 Welcome to my certificate portfolio! This collection showcases my continuous learning journey and professional development across various fields of technology, computer science, and beyond.
 
----
-
 ## 📋 Overview
 
 This repository contains certificates from my self-study journey, demonstrating my commitment to **continuous learning** and **skill development**. Each certificate represents dedicated time and effort invested in mastering specific technologies and concepts.
@@ -19,8 +17,6 @@ My certificate portfolio is structured to clearly define my **career aspirations
 The **Career Path** section outlines the professional roles and specializations I aim to achieve in my career. For instance, my goals to become a Programmer, Frontend Developer, Backend Developer, or Fullstack Developer represent the broader areas where I envision myself growing and contributing.
 
 * **Purpose:** This section reflects my long-term vision and commitment to specific professional domains. Certificates listed here will typically align with the core knowledge and advanced skills essential for these roles, such as web development frameworks, database management, or software architecture principles.
-
----
 
 ### ⌨️ Technical Skills
 
