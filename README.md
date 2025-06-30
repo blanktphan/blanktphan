@@ -29,14 +29,14 @@
 <main>
   <section>
     <h2>📊 <strong>Git Status</strong></h2>
-    <figure align="center">
+    <section align="center">
       <a href="https://github.com/blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit GitHub profile">
         <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=blanktphan&show_icons=true&bg_color=00000000&text_color=fff" alt="GitHub statistics showing commits, PRs, issues, and stars" />
       </a>
       <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="View repositories by programming language">
         <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanktphan&layout=compact&bg_color=00000000&text_color=fff" alt="Most used programming languages chart" />
       </a>
-    </figure>
+    </section>
   </section>
 
   <section>
