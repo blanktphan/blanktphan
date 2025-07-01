@@ -49,8 +49,8 @@
         <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=learning-journey&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
         </a>
-        <a href="https://github.com/blanktphan/my-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=my-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
+        <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=all-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
         </a>
       </p>
     </section>
