@@ -63,7 +63,7 @@
     </section>
     <aside>
       <p>
-        📍 Since most of the <strong>techniques and skills</strong> I've shared and demonstrated here were acquired through <strong>self-study</strong>, there might be some <em>errors or omissions</em>. If you're interested in the <strong>learning resources</strong> I used, feel free to check out my <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer"><strong>learning-journey repository</strong></a>. You can also <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer"><strong>explore the resources section</strong></a> for <em>more detailed information</em>.
+        📍 Since most of the <strong>techniques and skills</strong> I've shared and demonstrated here were acquired through <strong>self-study</strong>, there might be some <em>errors or omissions</em>. If you're interested in the <strong>learning resources</strong> I used, feel free to check out my <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer"><strong>learning-journey </strong></a> and <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer"><strong>all-projects repository</strong></a>. You can also <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer"><strong>explore the resources section</strong></a> for <em>more detailed information</em>.
       </p>
     </aside>
   </section>
