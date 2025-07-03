@@ -49,14 +49,14 @@ You can click [here](./technical-skills/) to see more Technical skills certifica
 
 I'm actively working towards expanding my knowledge and skills in the following areas:
 
-### 📂 Career Path Goals
+### 📂 Career Path
 
 -   [ ] **Programmer**
 -   [ ] **Frontend Developer**
 -   [ ] **Backend Developer**
 -   [ ] **Fullstack Developer**
 
-### 📂 Technical Skill Goals
+### 📂 Technical Skill
 
 -   [X] **Typing** (Completed all levels as of Jun 13, 2025)
 
