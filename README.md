@@ -17,28 +17,38 @@
   </nav>
 
   <section align="center">
-    <a href="https://github.com/blanktphan/blanktphan/tree/main/certificate" aria-label="blanktphan's certificate">
-      <img alt="blanktphan's Curriculum Vitae" src="https://img.shields.io/badge/6-blue?style=for-the-badge&label=Certificate">
-    </a>
-    <a href="#" aria-label="Profile visitor counter">
-      <img src="https://komarev.com/ghpvc/?username=blanktphan&style=for-the-badge&abbreviated=true" alt="Profile views counter" />
-    </a>
-    <a href="#" aria-label="blanktphan's Curriculum Vitae">
-      <img alt="blanktphan's Curriculum Vitae" src="https://img.shields.io/badge/Soon-blue?style=for-the-badge&label=Resume/CV">
-    </a>
+    <span>
+      <a href="https://github.com/blanktphan/blanktphan/tree/main/certificate" aria-label="blanktphan's certificate">
+        <img alt="blanktphan's Curriculum Vitae" src="https://img.shields.io/badge/6-blue?style=for-the-badge&label=Certificate">
+      </a>
+    </span>
+    <span>
+      <a href="#" aria-label="Profile visitor counter">
+        <img src="https://komarev.com/ghpvc/?username=blanktphan&style=for-the-badge&abbreviated=true" alt="Profile views counter" />
+      </a>
+    </span>
+    <span>
+      <a href="#" aria-label="blanktphan's Curriculum Vitae">
+        <img alt="blanktphan's Curriculum Vitae" src="https://img.shields.io/badge/Soon-blue?style=for-the-badge&label=Resume/CV">
+      </a>
+    </span>
   </section>
 </header>
 
 <main>
   <section>
-    <h2>📊 <strong>Git Status</strong></h2>
+    <h2>⚡ <strong>Git Status</strong></h2>
     <section align="center">
-      <a href="https://github.com/blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit GitHub profile">
-        <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=blanktphan&show_icons=true&bg_color=00000000&text_color=fff" alt="GitHub statistics showing commits, PRs, issues, and stars" />
-      </a>
-      <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="View repositories by programming language">
-        <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanktphan&layout=compact&bg_color=00000000&text_color=fff" alt="Most used programming languages chart" />
-      </a>
+      <span>
+        <a href="https://github.com/blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit GitHub profile">
+          <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=blanktphan&show_icons=true&bg_color=00000000&text_color=fff" alt="GitHub statistics showing commits, PRs, issues, and stars" />
+        </a>
+      </span>
+      <span>
+        <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="View repositories by programming language">
+          <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blanktphan&layout=compact&bg_color=00000000&text_color=fff" alt="Most used programming languages chart" />
+        </a>
+      </span>
     </section>
   </section>
 
@@ -46,12 +56,16 @@
     <h2>🧠 <strong>My Technical Skills & Expertise</strong></h2>
     <section align="center">
       <p>
-        <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=learning-journey&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
-        </a>
-        <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=all-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
-        </a>
+        <span>
+          <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=learning-journey&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
+          </a>
+        </span>
+        <span>
+          <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit learning journey repository">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=all-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="Learning journey repository card" />
+          </a>
+        </span>
       </p>
     </section>
     <section align="center">
@@ -73,8 +87,14 @@
   <section>
     <h2>🌐 <strong>Social Media and Other Channels</strong></h2>
     <nav>
-      <a href="https://www.youtube.com/@blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit YouTube channel">
+      <a href="https://www.youtube.com/@blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit Blankt's YouTube channel">
         <img alt="YouTube channel badge" src="https://img.shields.io/badge/blankt-red?style=for-the-badge&logo=Youtube&color=ff0000" />
+      </a>
+      <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Visit Blanktphan's X profile">
+        <img alt="Visit Blanktphan's X profile" src="https://img.shields.io/badge/blanktphan-black?style=for-the-badge&logo=X&logoColor=fff&color=14171a">
+      </a>
+      <a>
+        <img alt="Static Badge" src="https://img.shields.io/badge/blankt-pink?style=for-the-badge&logo=instagram&logoColor=fff&color=c13584">
       </a>
     </nav>
   </section>
