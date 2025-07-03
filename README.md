@@ -37,7 +37,7 @@
 
 <main>
   <section>
-    <h2>⚡ Git Status</h2>
+    <h2>📋 Git Status</h2>
     <section align="center">
       <span>
         <a href="https://github.com/blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit GitHub profile">

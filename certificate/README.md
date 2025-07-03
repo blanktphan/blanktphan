@@ -1,4 +1,4 @@
-# 📑 My Certificate Portfolio
+# 🎓 My Certificate Portfolio
 
 Welcome to my certificate portfolio! This collection showcases my continuous learning journey and professional development across various fields of technology, computer science, and beyond.
 
@@ -24,7 +24,7 @@ This repository contains certificates from my self-study journey, demonstrating 
 
 ---
 
-## 🎓 Certificate Categories
+## 📁 Certificate Categories
 
 ### 📂 Career Path
 
@@ -45,7 +45,7 @@ You can click [here](./technical-skills/) to see more Technical skills certifica
 
 ---
 
-## 📚 Current Learning Goals
+## 🎯 Current Learning Goals
 
 I'm actively working towards expanding my knowledge and skills in the following areas:
 
