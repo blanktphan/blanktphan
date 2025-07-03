@@ -87,15 +87,21 @@
   <section>
     <h2>🌐 <strong>Social Media and Other Channels</strong></h2>
     <nav>
-      <a href="https://www.youtube.com/@blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit Blankt's YouTube channel">
-        <img alt="YouTube channel badge" src="https://img.shields.io/badge/blankt-red?style=for-the-badge&logo=Youtube&color=ff0000" />
-      </a>
-      <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Visit Blanktphan's X profile">
-        <img alt="Visit Blanktphan's X profile" src="https://img.shields.io/badge/blanktphan-black?style=for-the-badge&logo=X&logoColor=fff&color=14171a">
-      </a>
-      <a>
-        <img alt="Static Badge" src="https://img.shields.io/badge/blankt-pink?style=for-the-badge&logo=instagram&logoColor=fff&color=c13584">
-      </a>
+      <span>
+        <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Visit Blankt's instagarm">
+          <img alt="Instagram Badge" src="https://img.shields.io/badge/blankt-pink?style=for-the-badge&logo=instagram&logoColor=fff&color=c13584">
+        </a>
+      </span>
+      <span>
+        <a href="https://www.youtube.com/@blanktphan" target="_blank" rel="noopener noreferrer" aria-label="Visit Blankt's YouTube channel">
+          <img alt="YouTube badge" src="https://img.shields.io/badge/blankt-red?style=for-the-badge&logo=Youtube&color=ff0000" />
+        </a>
+      </span>
+      <span>
+        <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Visit Blanktphan's X profile">
+          <img alt=" X Badge" src="https://img.shields.io/badge/blanktphan-black?style=for-the-badge&logo=X&logoColor=fff&color=14171a">
+        </a>
+      </span>
     </nav>
   </section>
 </footer>
