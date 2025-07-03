@@ -2,7 +2,7 @@
 
 Welcome to my certificate portfolio! This collection showcases my continuous learning journey and professional development across various fields of technology, computer science, and beyond.
 
-This repository contains certificates from my self-study journey, demonstrating my commitment to **continuous learning** and **skill development**. Each certificate represents dedicated time and effort invested in mastering specific technologies and concepts.
+This repository contains certificates from my self-study journey, demonstrating my commitment to continuous learning and skill development. Each certificate represents dedicated time and effort invested in mastering specific technologies and concepts.
 
 <section align="center">
     <span>
