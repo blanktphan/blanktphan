@@ -62,8 +62,8 @@
           </a>
         </span>
         <span>
-          <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit all projects repository">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=all-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="All projects repository card" />
+          <a href="https://github.com/blanktphan/my-projects" target="_blank" rel="noopener noreferrer" aria-label="Visit all projects repository">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=blanktphan&repo=my-projects&bg_color=00000000&text_color=fff&show_owner=true" alt="My projects repository card" />
           </a>
         </span>
       </p>
