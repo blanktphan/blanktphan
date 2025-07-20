@@ -77,7 +77,7 @@
     </section>
     <aside>
       <p>
-        📍 Since most of the techniques and skills I've shared and demonstrated here were acquired through self-study, there might be some errors or omissions. If you're interested in the learning resources I used, feel free to check out my <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer">learning-journey</a> and <a href="https://github.com/blanktphan/all-projects" target="_blank" rel="noopener noreferrer">all-projects repository</a>. You can also <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer">explore the resources section</a> for more detailed information.
+        📍 Since most of the techniques and skills I've shared and demonstrated here were acquired through self-study, there might be some errors or omissions. If you're interested in the learning resources I used, feel free to check out my <a href="https://github.com/blanktphan/learning-journey" target="_blank" rel="noopener noreferrer">learning-journey</a> and <a href="https://github.com/blanktphan/my-projects" target="_blank" rel="noopener noreferrer">my-projects repository</a>. You can also <a href="https://github.com/blanktphan?tab=repositories" target="_blank" rel="noopener noreferrer">explore the resources section</a> for more detailed information.
       </p>
     </aside>
   </section>
