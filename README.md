@@ -70,9 +70,6 @@
     </section>
     <section align="center">
       <p> 
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,java,rust,c,cpp,cs,go,swift,kotlin,flutter,dart,html,css,tailwind,bootstrap,js,react,redux,nodejs,expressjs,php,mongodb,mysql,postgresql,sqlite,cloudflare,gcp,firebase,vscode,git,powershell,bash,github,notion,md,figma,blender,windows,ubuntu" />
-        </a>
       </p>
     </section>
     <aside>
