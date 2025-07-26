@@ -9,7 +9,7 @@
   <nav>
     <ul>
       <li>🌱 I'm currently learning Computer Science and Frontend Developer</li>
-      <li>🔨 I'm currently working on projects related to E-commerce websites, CRUD applications, and an educational platform.</li>
+      <li>🔨 I'm currently working on projects related to E-commerce websites and an educational platform.</li>
       <li>🎯 My goal this year is to gain the best possible understanding of various software and hardware fields, so I can then find a specialization I truly enjoy.</li>
       <li>💖 I'm interested in Mechatronics because I think it is important for the future.</li>
       <li>🤝 I'm open to collaboration on anything within my experience and skill set to further develop my skills.</li>
